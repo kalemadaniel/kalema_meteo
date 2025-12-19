@@ -1,10 +1,8 @@
-# kalema_meteo
-
-# ☀️ Flutter Weather Mini App
+# ☀️ kalema_meteo 
 
 ## 📌 À propos
 
-**Flutter Weather Mini App** est une petite application développée en **Flutter** permettant d’afficher les **conditions météorologiques actuelles** d’une ville de manière simple, élégante et intuitive.
+**kalema metéo** est une petite application développée en **Flutter** permettant d’afficher les **conditions météorologiques actuelles** d’une ville de manière simple, élégante et intuitive.
 
 L’application met l’accent sur une **interface épurée**, une **visualisation claire de la température** et un rendu fluide adapté aux appareils mobiles.
 
@@ -46,5 +44,4 @@ Ce projet a été réalisé à des fins :
 ## 👤 Auteur
 
 **Jonathan Kalema**  
-Développeur Flutter & Solutions mobiles  
 📍 Goma – RDC
